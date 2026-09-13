@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / Env
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Logs and Challenge specific
+log.txt
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+test_out.txt
+.system_generated/
+.gemini/
